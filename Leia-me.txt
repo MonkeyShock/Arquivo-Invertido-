@@ -1,0 +1,1 @@
+Para conseguir rodar o trabalho voçe precisa importar os arquivos no seu IDE, não só isso, voçê precisa colocar o diretorio das suas pastas, caso vc queira ler varios documentos precisa-se usar o vetor para cada documento.
